@@ -1,6 +1,6 @@
 # Cardiovascular Disease Prediction
 
-##Authors: Pablo Aguilar Ruiz - Guillem Gusart Verdú 
+## Authors: Pablo Aguilar Ruiz - Guillem Gusart Verdú 
 
 ## 1. Objective:
 The challenge is to analyze a medical dataset, identify patterns, and build a predictive model that can classify patients into two categories:
