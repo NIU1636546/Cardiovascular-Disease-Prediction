@@ -1,7 +1,7 @@
 # Cardiovascular Disease Prediction
 
 ## Authors: Pablo Aguilar Ruiz - Guillem Gusart Verdú 
-
+## Link Dataset kaggle: https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 ## 1. Objective:
 The challenge is to analyze a medical dataset, identify patterns, and build a predictive model that can classify patients into two categories:
 - **0**: Does not have cardiovascular disease.
